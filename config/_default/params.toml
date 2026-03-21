@@ -71,7 +71,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   headline = "Ai Student at NUCES | Coder"
   bio = "A Guy Who's Interested In Tech."
   links = [
-    { github = "https://github.com/coder-Retro" }
+    { github = "https://github.com/coder-Retro" },
+    { linkedin = "https://linkedin.com/in/muhammad-hasnain-606b893a4" }
   ]
 
 [article]
